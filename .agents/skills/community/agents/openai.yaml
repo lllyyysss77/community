@@ -1,0 +1,6 @@
+interface:
+  display_name: "Community"
+  short_description: "Repo-specific patterns and workflows for community"
+  default_prompt: "Use the community repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
